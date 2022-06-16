@@ -1,2 +1,2 @@
 # authentication-handler-netcore
-Authentication is the process that helps identify who is the users. On the other hand, authorization is the process of determining what a user can do. For authorization to work, the user will be authenticated first. We need the user’s identity to identify the role of a user and act accordingly.
+Authentication is the process of determining a user's identity. Authorization is the process of determining whether a user has access to a resource. In ASP.NET Core, authentication is handled by the authentication service, IAuthenticationService, which is used by authentication middleware.
