@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "peXXPQyWZFIZYfbEKYfaVeoVD+amzkuyhy+KjyOndVlVhKS6ARjM37HC4nHDOT1+mrbaVbrB0mzO21ny5NmHSA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\MyProjects\\C#\\AuthenticationHandler\\authentication-handler-netcore\\AuthenticationHandler\\Authentication.API\\Authentication.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
