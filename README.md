@@ -1,2 +1,16 @@
 # authentication-handler-netcore
-Authentication is the process of determining a user's identity. Authorization is the process of determining whether a user has access to a resource. In ASP.NET Core, authentication is handled by the authentication service, IAuthenticationService, which is used by authentication middleware.
+
+Used Technologies
+
+- .NET 6.0
+- C#
+
+Used Nuget Packages
+- Microsoft.AspNetCore.Authentication (2.2.0)
+- Microsoft.AspNetCore.Authentication.JwtBearer (6.0.6)
+- Microsoft.IdentityModel.Tokens (6.19.0)
+- Swashbuckle.AspNetCore (6.2.3)
+- System.IdentityModel.Tokens.Jwt (6.19.0)
+
+The project has Swagger UI. You can check and test.
+Have a fun !
